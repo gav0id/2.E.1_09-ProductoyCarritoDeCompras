@@ -19,4 +19,5 @@ Dentro del método `main`, desarrollé la siguiente lógica de prueba:
 4. Llamé al método `mostrarDetalle()` para imprimir en consola el ticket de la compra y comprobar que ambas clases interactúan correctamente.
 
 Ejecución en consola
-<img width="1366" height="723" alt="imagen" src="https://github.com/user-attachments/assets/cb2fb69c-1a5d-4fc2-958b-a4df85cd56a3" />
+<img width="1366" height="720" alt="{390ADC1C-A6DD-4B6C-9686-149AA95AEAAA}" src="https://github.com/user-attachments/assets/a68d0b49-0fe7-41f5-923c-7babab88b245" />
+
