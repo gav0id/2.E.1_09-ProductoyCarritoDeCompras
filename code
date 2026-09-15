@@ -20,7 +20,6 @@ public class Producto {
     }
 }
 
-
 import java.util.ArrayList;
 public class CarritoDeCompras {
 
@@ -49,6 +48,9 @@ public class CarritoDeCompras {
         System.out.println("-----");
         System.out.println("Total a abonar: $" + calcularTotal());
     }
+}
+
+public class Main {
     public static void main(String[] args) {
         CarritoDeCompras miCarrito = new CarritoDeCompras();
 
